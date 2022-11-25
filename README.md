@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # My profile
-![diana](https://user-images.githubusercontent.com/116189141/203984291-b054175e-57d6-4edd-9ade-d421d1f5f811.png)
+![dianan](https://user-images.githubusercontent.com/116189141/204059222-28c3736e-de15-41b1-8a29-03a9da995c83.png)
+
 
 🔭 I’m currently working on [FriendBy](https://github.com/AGH-Narzedzia-Informatyczne-2022-2023/FriendBy)
 
 🌱 I’m currently learning how to use GitHub
-
 
 🤔 I’m looking for help with GitHub
 
@@ -29,6 +29,11 @@ Here are some ideas to get you started:
 😄 Pronouns: she/her
 
 🎀 I live in Cracow
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 
 ![pokemonyuuuuuuuuuu](https://user-images.githubusercontent.com/116189141/204025894-38d93260-a5ff-41dc-9083-65c38cfe629d.jpg)
 
