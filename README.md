@@ -17,4 +17,11 @@ Here are some ideas to get you started:
 # My profile
 ![diana](https://user-images.githubusercontent.com/116189141/203984291-b054175e-57d6-4edd-9ade-d421d1f5f811.png)
 
+🔭 I’m currently working on [FriendBy](https://github.com/AGH-Narzedzia-Informatyczne-2022-2023/FriendBy)
+
+🤔 I’m looking for help with GitHub
+
+😄 Pronouns: she/her
+
+
 
