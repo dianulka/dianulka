@@ -19,7 +19,12 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on [FriendBy](https://github.com/AGH-Narzedzia-Informatyczne-2022-2023/FriendBy)
 
+🌱 I’m currently learning how to use GitHub
+
+
 🤔 I’m looking for help with GitHub
+
+📫 How to reach me: DM me
 
 😄 Pronouns: she/her
 
