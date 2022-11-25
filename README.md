@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 
 😄 Pronouns: she/her
 
+🎀 I live in Cracow
+
 ![pokemonyuuuuuuuuuu](https://user-images.githubusercontent.com/116189141/204025894-38d93260-a5ff-41dc-9083-65c38cfe629d.jpg)
 
 
