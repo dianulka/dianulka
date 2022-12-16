@@ -36,6 +36,11 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+# fork
+
+repozytorium: https://github.com/dianulka/robotics_transformer
+link do strony: https://paperswithcode.com/paper/rt-1-robotics-transformer-for-real-world#code
+
 
 ![pokemonyuuuuuuuuuu](https://user-images.githubusercontent.com/116189141/204025894-38d93260-a5ff-41dc-9083-65c38cfe629d.jpg)
 
