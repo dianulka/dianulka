@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 # fork
 
 repozytorium: https://github.com/dianulka/robotics_transformer
+
 link do strony: https://paperswithcode.com/paper/rt-1-robotics-transformer-for-real-world#code
 
 
