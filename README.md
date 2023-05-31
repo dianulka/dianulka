@@ -15,20 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # My profile
-![dianan](https://user-images.githubusercontent.com/116189141/204059222-28c3736e-de15-41b1-8a29-03a9da995c83.png)
 
-
-🔭 I’m currently working on [FriendBy](https://github.com/AGH-Narzedzia-Informatyczne-2022-2023/FriendBy)
-
-🌱 I’m currently learning how to use GitHub
-
-🤔 I’m looking for help with GitHub
-
-📫 How to reach me: DM me
-
-😄 Pronouns: she/her
-
-🎀 I live in Cracow
 
 # link do strony: https://dianulka.github.io/ 
 
